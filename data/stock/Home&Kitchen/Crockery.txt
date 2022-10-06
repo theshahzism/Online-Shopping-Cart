@@ -1,0 +1,16 @@
+HCR1
+Ceramin bowl
+100
+8
+HCR2
+Plastic bowl
+200
+9
+HCR3
+Ceramin plate
+200
+8
+HCR4
+Tea mug
+100
+10

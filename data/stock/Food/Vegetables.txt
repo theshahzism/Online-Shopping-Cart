@@ -1,0 +1,16 @@
+FVG1
+Tomato
+100
+9
+FVG2
+Potato
+200
+8
+FVG3
+Carrot
+200
+10
+FVG4
+Onion
+50
+10

@@ -1,0 +1,16 @@
+ELP1
+Intel
+100
+9
+ELP2
+AMD
+200
+10
+ELP3
+Dell
+200
+10
+ELP4
+HP
+100
+10

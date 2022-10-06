@@ -1,0 +1,16 @@
+HSW1
+Spoon
+100
+10
+HSW2
+Fork
+200
+10
+HSW3
+Butter Knife
+200
+10
+HSW4
+Knife
+100
+10

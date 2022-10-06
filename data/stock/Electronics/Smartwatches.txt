@@ -1,0 +1,16 @@
+ESW1
+Apple
+100
+10
+ESW2
+Samsung
+200
+10
+ESW3
+Xiaomi
+200
+10
+ESW4
+Lenovo
+100
+10

@@ -1,0 +1,16 @@
+CCC1
+Tshirt
+100
+10
+CCC2
+Shirt
+200
+10
+CCC3
+Jeans
+200
+10
+CCC4
+Socks
+100
+10

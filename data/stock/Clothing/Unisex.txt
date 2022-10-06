@@ -1,0 +1,16 @@
+CUS1
+Tshirt
+100
+7
+CUS2
+Shirt
+200
+10
+CUS3
+Jeans
+200
+10
+CUS4
+Jacket
+100
+10

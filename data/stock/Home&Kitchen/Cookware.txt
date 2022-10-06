@@ -1,0 +1,16 @@
+HCW1
+Fry pan
+100
+10
+HCW2
+Cast iron skillet
+200
+10
+HCW3
+Stock pot
+200
+10
+HCW4
+Grill pan
+100
+10

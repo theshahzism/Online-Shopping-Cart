@@ -1,0 +1,16 @@
+CFC1
+Tshirt
+100
+7
+CFC2
+Shirt
+200
+10
+CFC3
+Jeans
+200
+10
+CFC4
+Socks
+100
+10

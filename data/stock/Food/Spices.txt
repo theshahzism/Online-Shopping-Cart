@@ -1,0 +1,16 @@
+FSP1
+Tumeric
+100
+5
+FSP2
+Black pepper
+200
+10
+FSP3
+Cinnamon
+200
+10
+FSP4
+Black cumin
+100
+10

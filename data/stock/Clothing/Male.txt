@@ -1,0 +1,16 @@
+CMC1
+Tshirt
+100
+1
+CMC2
+Shirt
+200
+9
+CMC3
+Jeans
+200
+8
+CMC4
+Socks
+100
+10

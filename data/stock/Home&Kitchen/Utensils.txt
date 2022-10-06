@@ -1,0 +1,16 @@
+HUT1
+Sieve
+100
+0
+HUT2
+Lemon juicer
+200
+10
+HUT3
+Can opener
+200
+10
+HUT4
+Whisker
+100
+10

@@ -1,0 +1,16 @@
+FBV1
+CocaCola
+100
+10
+FBV2
+Pakola
+200
+10
+FBV3
+Pepsi
+200
+10
+FBV4
+Orange juice
+100
+10

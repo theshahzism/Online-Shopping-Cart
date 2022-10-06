@@ -1,0 +1,16 @@
+ESP1
+Motorola
+100
+9
+ESP2
+Apple
+200
+8
+ESP3
+Huawei
+200
+10
+ESP4
+Oppo
+100
+10

@@ -1,0 +1,16 @@
+FME1
+Chicken
+100
+10
+FME2
+Mutton
+200
+8
+FME3
+Beef
+200
+10
+FME4
+Venison
+100
+10

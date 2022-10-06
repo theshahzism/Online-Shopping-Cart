@@ -1,0 +1,16 @@
+EDK1
+Intel
+100
+9
+EDK2
+Dell
+200
+10
+EDK3
+HP
+200
+10
+EDK4
+AMD
+100
+10
